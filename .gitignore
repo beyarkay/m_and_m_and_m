@@ -1,0 +1,5 @@
+*.sw+
+.venv
+credentials.json
+token.json
+
